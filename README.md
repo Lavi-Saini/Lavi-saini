@@ -5,7 +5,7 @@
 ### Full Stack Developer · CSE @ Central University of Jammu · Building for the Web
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavisainii)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin-eta.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lavi-saini.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavi22saini@gmail.com)
 
 </div>
@@ -87,10 +87,10 @@ I'm a **B.Tech CSE student** at Central University of Jammu passionate about bui
 
 ## 🤝 Leadership & Community
 
-**🔵 GDG CUJ — Creative Team Member** *(Aug 2025 – Present)*  
+**🔵 GDG CUJ — Co-Lead** *(Aug 2025 – Present)*  
 Designing visual content, posters, and digital creatives for tech events and workshops.
 
-**⚙️ Tech Event — Creative Support Team** *(Apr 2025 – Present)*  
+**⚙️ Tech Event — Organizing Team** *(Apr 2025 – Present)*  
 Designing event posters, banners, and announcements for university-level technical events.
 
 ---
@@ -99,14 +99,14 @@ Designing event posters, banners, and announcements for university-level technic
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=narcissus-dec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narcissus-dec&layout=compact&langs_count=8&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lavi-saini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavi-saini&layout=compact&langs_count=8&theme=tokyonight" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narcissus-dec&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lavi-saini&theme=tokyonight)
 
 </div>
 
@@ -117,14 +117,14 @@ Designing event posters, banners, and announcements for university-level technic
 I'm always open to collaborating on interesting projects, learning opportunities, or just having a good tech conversation.
 
 📧 **Email:** [lavi22saini@gmail.com](mailto:lavi22saini@gmail.com)  
-🌐 **Portfolio:** [sachin-eta.vercel.app](https://sachin-eta.vercel.app)  
+🌐 **Portfolio:** [lavi-saini.vercel.app](https://lavi-saini.vercel.app)  
 💼 **LinkedIn:** [linkedin.com/in/lavisainii](https://linkedin.com/in/lavisainii)
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=narcissus-dec&label=Profile+Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=lavi-saini&label=Profile+Views&color=0e75b6&style=flat)
 
 *"Building one line of code at a time — towards a better web."*
 
